@@ -31,11 +31,11 @@ The data come from two sources within the app:
 Given the data, we have three main objectives that we address in the analysis:
 - 1  We would like to provide an answer to certain questions with respect our users and the ways in which they use the app. In specific:
 
-    - What is the average duration of a user session? Which student has spent the longest uninterrupted session? For our purposes a session is defined as the time interval between two actions, but only if these actions take place less than 5 minutes apart; if two actions take place more than 5 minutes apart, then they are not part of the same session.
+    - Which Hogwarts house has the most active students?
 
     - Which are the most active students in terms of total time spent performing actions and total number of actions performed?
 
-    - Which Hogwarts house has the most active students?
+    - What is the average duration of a user session? Which student has spent the longest uninterrupted session? For our purposes a session is defined as the time interval between two actions, but only if these actions take place less than 5 minutes apart; if two actions take place more than 10 minutes apart, then they are not part of the same session.
 
 - 2 We would like to define a series of useful metrics on user engagement, analyse them and represent them graphically.
 
