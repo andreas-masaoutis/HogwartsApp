@@ -11,7 +11,9 @@ README.md - the current file
 
 hogwarts_requirements.txt - the required libraries
 
-documentation.md - a simple fusion of user/technical documentation, vision statement, etc. 
+documentation.md - a simple fusion of user/technical documentation, vision statement, etc.
+
+hogwarts_app_metrics_presentation.pdf - the presentation prepared for the stakeholders
 
 ### The HogwartsApp
 We have built the HogwartsApp, for the students of the four houses of Hogwarts -the school of witchcraft and wizardry. We have access to the data being produced by the users and we would like to get insights into how the app is being used.
